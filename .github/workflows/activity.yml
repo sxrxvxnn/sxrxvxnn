@@ -14,9 +14,78 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Readme-Workflows/recent-activity@v2.0.0
-        with:
-          GH_USERNAME: sxrxvxnn
-          CONFIG_FILE: ./.github/recent-activity.config.yml
+      - name: Fetch and write recent activity
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          import urllib.request
+          import json
+          import re
+
+          token = "${{ secrets.METRICS_TOKEN }}"
+          username = "sxrxvxnn"
+
+          req = urllib.request.Request(
+            f"https://api.github.com/users/{username}/events?per_page=50",
+            headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
+          )
+          with urllib.request.urlopen(req) as r:
+            events = json.loads(r.read())
+
+          lines = []
+          for e in events:
+            t = e["type"]
+            repo = e["repo"]["name"]
+            pl = e.get("payload", {})
+            created = e["created_at"][:10]
+
+            if t == "PushEvent":
+              commits = pl.get("commits", [])
+              if commits:
+                msg = commits[-1]["message"].split("\n")[0][:72]
+                lines.append(f"🔨 Pushed `{msg}` to [{repo}](https://github.com/{repo}) on {created}")
+            elif t == "CreateEvent":
+              ref = pl.get("ref") or pl.get("ref_type", "")
+              lines.append(f"🌱 Created `{ref}` in [{repo}](https://github.com/{repo}) on {created}")
+            elif t == "PullRequestEvent":
+              pr = pl.get("pull_request", {})
+              action = pl.get("action", "")
+              lines.append(f"🔀 {action.capitalize()} PR [{pr.get('title','')}](https://github.com/{repo}/pull/{pr.get('number','')}) in [{repo}](https://github.com/{repo}) on {created}")
+            elif t == "IssuesEvent":
+              issue = pl.get("issue", {})
+              action = pl.get("action", "")
+              lines.append(f"❗ {action.capitalize()} issue [{issue.get('title','')}](https://github.com/{repo}/issues/{issue.get('number','')}) in [{repo}](https://github.com/{repo}) on {created}")
+            elif t == "WatchEvent":
+              lines.append(f"⭐ Starred [{repo}](https://github.com/{repo}) on {created}")
+            elif t == "ForkEvent":
+              lines.append(f"🍴 Forked [{repo}](https://github.com/{repo}) on {created}")
+
+            if len(lines) >= 10:
+              break
+
+          content = "\n".join(f"{i+1}. {l}" for i, l in enumerate(lines))
+          block = f"<!--RECENT_ACTIVITY:start-->\n{content}\n<!--RECENT_ACTIVITY:end-->"
+
+          with open("README.md", "r") as f:
+            readme = f.read()
+
+          updated = re.sub(
+            r"<!--RECENT_ACTIVITY:start-->.*?<!--RECENT_ACTIVITY:end-->",
+            block,
+            readme,
+            flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+            f.write(updated)
+
+          print("Done.")
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && echo "No changes" || git commit -m "chore: update recent activity" && git push
