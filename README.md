@@ -223,12 +223,16 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) on 2026-07-26
-2. ⭐ Starred [sxrxvxnn/mac-ssd-toolkit](https://github.com/sxrxvxnn/mac-ssd-toolkit) on 2026-07-26
-3. 🌱 Created `main` in [sxrxvxnn/mac-ssd-toolkit](https://github.com/sxrxvxnn/mac-ssd-toolkit) on 2026-07-26
-4. ⭐ Starred [sxrxvxnn/sxrxvxnn](https://github.com/sxrxvxnn/sxrxvxnn) on 2026-07-24
-5. 🌱 Created `main` in [sxrxvxnn/sonar-company-discovery](https://github.com/sxrxvxnn/sonar-company-discovery) on 2026-07-24
-6. 🌱 Created `main` in [sxrxvxnn/sxrxvxnn](https://github.com/sxrxvxnn/sxrxvxnn) on 2026-07-24
+1. 🔀 Opened PR [](https://github.com/alebcay/awesome-shell/pull/750) in [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) on 2026-07-26
+2. 🌱 Created `add-mac-ssd-toolkit` in [sxrxvxnn/awesome-shell](https://github.com/sxrxvxnn/awesome-shell) on 2026-07-26
+3. 🍴 Forked [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) on 2026-07-26
+4. 🍴 Forked [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) on 2026-07-26
+5. 🔀 Opened PR [](https://github.com/jaywcjlove/awesome-mac/pull/2414) in [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) on 2026-07-26
+6. 🌱 Created `add-mac-ssd-toolkit` in [sxrxvxnn/awesome-mac](https://github.com/sxrxvxnn/awesome-mac) on 2026-07-26
+7. 🍴 Forked [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) on 2026-07-26
+8. ⭐ Starred [sxrxvxnn/mac-ssd-toolkit](https://github.com/sxrxvxnn/mac-ssd-toolkit) on 2026-07-26
+9. 🌱 Created `main` in [sxrxvxnn/mac-ssd-toolkit](https://github.com/sxrxvxnn/mac-ssd-toolkit) on 2026-07-26
+10. ⭐ Starred [sxrxvxnn/sxrxvxnn](https://github.com/sxrxvxnn/sxrxvxnn) on 2026-07-24
 <!--RECENT_ACTIVITY:end-->
 
 
