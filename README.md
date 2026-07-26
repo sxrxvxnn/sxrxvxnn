@@ -222,6 +222,13 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## Contribution Snake
 
 <div align="center">
