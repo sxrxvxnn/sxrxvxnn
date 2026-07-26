@@ -200,11 +200,11 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 ---
 
-## Achievements
+## Contribution Calendar
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/metrics/achievements.svg" alt="Achievements"/>
+<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/metrics/achievements.svg" alt="Contribution Calendar"/>
 
 </div>
 
@@ -224,6 +224,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 
 ---
 
