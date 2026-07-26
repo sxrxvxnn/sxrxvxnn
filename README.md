@@ -234,6 +234,16 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 ---
 
+## 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
 ## Contribution Snake
 
 <div align="center">
