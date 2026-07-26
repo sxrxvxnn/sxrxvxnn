@@ -21,20 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: sxrxvxnn
-          MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "githubUserName": "sxrxvxnn",
-              "fileName": "profile-3d-contrib/profile-night-rainbow.svg",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#c9d1d9",
-              "strongColor": "#7C3AED",
-              "mediumColor": "#6D28D9",
-              "lightColor": "#4338CA",
-              "weekLabelColor": "#c9d1d9",
-              "monthLabelColor": "#c9d1d9",
-              "contributions": []
-            }
 
       - name: Push 3D graph
         run: |
