@@ -1,5 +1,5 @@
 settings:
   username: sxrxvxnn
   max_lines: 10
-  commit_msg: "chore: update recent activity"
+  commit_message: "chore: update recent activity"
   readme_file: README.md
