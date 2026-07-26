@@ -188,9 +188,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxrxvxnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=7C3AED&icon_color=6D28D9&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxrxvxnn&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/metrics/stats.svg" alt="GitHub Metrics"/>
 
 </div>
 
@@ -202,11 +200,11 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 ---
 
-## GitHub Trophies
+## Achievements
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sxrxvxnn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/metrics/achievements.svg" alt="Achievements"/>
 
 </div>
 
