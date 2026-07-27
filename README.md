@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shravan%20Omanakuttan&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=CS%20Student%20%7C%20Software%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Building+intelligent+products+at+scale+%F0%9F%9A%80;AI-powered+systems+%7C+Full+Stack+Engineering+%F0%9F%A7%A0;LLM+orchestration+%7C+Enrichment+pipelines+%7C+Chrome+extensions;FastAPI+%2B+React+%2B+Supabase+%2B+Groq+%2B+Playwright;Turning+raw+data+into+qualified+leads+at+scale;Currently+%40+Beagle+Security+building+Sonar+%F0%9F%93%A1;Open+to+SDE+internships+%26+AI+engineering+roles;From+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Building+intelligent+products+at+scale+%F0%9F%9A%80;AI-powered+systems+%7C+Full+Stack+Engineering+%F0%9F%A7%A0;LLM+orchestration+%7C+Enrichment+pipelines+%7C+Chrome+extensions;FastAPI+%2B+React+%2B+Supabase+%2B+Groq+%2B+Playwright;Turning+raw+data+into+qualified+leads+at+scale;Currently+%40+Beagle+Security+building+Sonar+%F0%9F%93%A1;%22Make+it+work%2C+make+it+right%2C+make+it+fast%22;Ship+fast.+Observe+everything.+Improve+relentlessly.;Code+is+not+written+for+machines+—+it%27s+written+for+people;Open+to+SDE+internships+%26+AI+engineering+roles+%F0%9F%8C%8D;From+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Building+for+the+world)](https://git.io/typing-svg)
 
 <br/>
 
@@ -80,6 +80,12 @@ I build full-stack AI products end-to-end: from database schema to deployed UI, 
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/assets/skills.svg" alt="Skill Proficiency" width="100%"/>
+
+</div>
+
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
 
 ## Experience
@@ -106,6 +112,16 @@ Designed and built **Sonar** — an internal Apollo-like lead intelligence platf
 ![Vercel](https://img.shields.io/badge/Vercel-4338CA?style=flat-square&logo=vercel&logoColor=white)
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
+
+## Sonar Intelligence
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/assets/radar.svg" alt="Sonar Radar" width="80%"/>
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
 
 ## Featured Projects
 
@@ -262,6 +278,30 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
+
+## Coding Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/metrics/wakatime.svg" alt="WakaTime Coding Stats"/>
+
+> Setup: Install [WakaTime](https://wakatime.com) VS Code extension → add `WAKATIME_API_KEY` secret → stats appear automatically
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
+
+## Now Playing
+
+<div align="center">
+
+[![Spotify](https://YOUR-NOVATOREM-URL.vercel.app/api/now-playing)](https://open.spotify.com)
+
+> Setup: Deploy [novatorem](https://github.com/novatorem/novatorem) to Vercel → replace URL above → shows live Spotify track
 
 </div>
 

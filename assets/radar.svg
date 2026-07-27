@@ -1,0 +1,114 @@
+<svg viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg-fill" cx="250" cy="175" r="155" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-sm" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><circle cx="250" cy="175" r="155"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="500" height="350" fill="#0d1117" rx="12"/>
+  <circle cx="250" cy="175" r="155" fill="url(#bg-fill)"/>
+
+  <!-- Concentric rings -->
+  <circle cx="250" cy="175" r="38"  fill="none" stroke="#7C3AED" stroke-width="0.5" opacity="0.25"/>
+  <circle cx="250" cy="175" r="77"  fill="none" stroke="#7C3AED" stroke-width="0.5" opacity="0.25"/>
+  <circle cx="250" cy="175" r="116" fill="none" stroke="#7C3AED" stroke-width="0.5" opacity="0.25"/>
+  <circle cx="250" cy="175" r="155" fill="none" stroke="#7C3AED" stroke-width="1.5" opacity="0.55" filter="url(#glow-sm)"/>
+
+  <!-- Crosshairs -->
+  <line x1="250" y1="20"  x2="250" y2="330" stroke="#7C3AED" stroke-width="0.5" opacity="0.18"/>
+  <line x1="95"  y1="175" x2="405" y2="175" stroke="#7C3AED" stroke-width="0.5" opacity="0.18"/>
+  <line x1="140" y1="65"  x2="360" y2="285" stroke="#7C3AED" stroke-width="0.4" opacity="0.12"/>
+  <line x1="360" y1="65"  x2="140" y2="285" stroke="#7C3AED" stroke-width="0.4" opacity="0.12"/>
+
+  <!-- Sweep (rotates) -->
+  <g clip-path="url(#clip)">
+    <g transform="translate(250,175)">
+      <!-- Wide trail -->
+      <path d="M0,0 L0,-155 A155,155,0,0,1,152.6,-26.9 Z" fill="#7C3AED" opacity="0.10">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <!-- Bright sector -->
+      <path d="M0,0 L0,-155 A155,155,0,0,1,99.6,-118.7 Z" fill="#7C3AED" opacity="0.22">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <!-- Leading edge -->
+      <line x1="0" y1="0" x2="0" y2="-155" stroke="#a78bfa" stroke-width="1.8" opacity="0.85" filter="url(#glow)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+      </line>
+    </g>
+  </g>
+
+  <!-- Center dot -->
+  <circle cx="250" cy="175" r="3.5" fill="#a78bfa" filter="url(#glow)"/>
+
+  <!-- Blip A (335,105) ~50.5° → begin 0.56s -->
+  <g filter="url(#glow)">
+    <circle cx="335" cy="105" r="0" fill="#00e5ff">
+      <animate attributeName="r"       values="0;5.5;4;3;1.5;0;0;0;0;0" keyTimes="0;0.01;0.06;0.18;0.35;0.5;0.6;0.7;0.8;1" dur="4s" begin="0.56s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0.8;0.5;0.2;0;0;0;0;0" keyTimes="0;0.01;0.06;0.18;0.35;0.5;0.6;0.7;0.8;1" dur="4s" begin="0.56s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="335" cy="105" r="0" fill="none" stroke="#00e5ff" stroke-width="1">
+      <animate attributeName="r"       values="0;5;14;22;0;0" keyTimes="0;0.01;0.12;0.4;0.41;1" dur="4s" begin="0.56s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0.3;0;0;0"  keyTimes="0;0.01;0.12;0.4;0.41;1" dur="4s" begin="0.56s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Blip C (320,258) ~139.8° → begin 1.55s -->
+  <g filter="url(#glow)">
+    <circle cx="320" cy="258" r="0" fill="#00e5ff">
+      <animate attributeName="r"       values="0;5.5;4;3;1.5;0;0;0;0;0" keyTimes="0;0.01;0.06;0.18;0.35;0.5;0.6;0.7;0.8;1" dur="4s" begin="1.55s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0.8;0.5;0.2;0;0;0;0;0" keyTimes="0;0.01;0.06;0.18;0.35;0.5;0.6;0.7;0.8;1" dur="4s" begin="1.55s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="258" r="0" fill="none" stroke="#00e5ff" stroke-width="1">
+      <animate attributeName="r"       values="0;5;14;22;0;0" keyTimes="0;0.01;0.12;0.4;0.41;1" dur="4s" begin="1.55s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0.3;0;0;0"  keyTimes="0;0.01;0.12;0.4;0.41;1" dur="4s" begin="1.55s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Blip D (158,222) ~244.6° → begin 2.72s -->
+  <g filter="url(#glow)">
+    <circle cx="158" cy="222" r="0" fill="#a78bfa">
+      <animate attributeName="r"       values="0;5;3.5;2;0;0;0;0;0;0" keyTimes="0;0.01;0.08;0.22;0.38;0.5;0.6;0.7;0.8;1" dur="4s" begin="2.72s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0.6;0.3;0;0;0;0;0;0" keyTimes="0;0.01;0.08;0.22;0.38;0.5;0.6;0.7;0.8;1" dur="4s" begin="2.72s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Blip B (188,118) ~309.8° → begin 3.44s -->
+  <g filter="url(#glow)">
+    <circle cx="188" cy="118" r="0" fill="#00e5ff">
+      <animate attributeName="r"       values="0;4.5;3.5;2;0;0;0;0;0;0" keyTimes="0;0.01;0.07;0.2;0.36;0.5;0.6;0.7;0.8;1" dur="4s" begin="3.44s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0.7;0.3;0;0;0;0;0;0"   keyTimes="0;0.01;0.07;0.2;0.36;0.5;0.6;0.7;0.8;1" dur="4s" begin="3.44s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Title -->
+  <text x="250" y="205" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="22" font-weight="700" fill="#a78bfa" letter-spacing="10" filter="url(#glow-sm)">SONAR</text>
+  <text x="250" y="222" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9" fill="#6D28D9" letter-spacing="4">
+    B2B LEAD INTELLIGENCE
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Corner HUD elements -->
+  <text x="18" y="22"  font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#4338CA" opacity="0.8">⬛ ACTIVE SCAN</text>
+  <text x="18" y="338" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#4338CA" opacity="0.6">BEAGLE SECURITY · 2026</text>
+  <text x="482" y="338" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#4338CA" opacity="0.6">sxrxvxnn/sonar</text>
+  <text x="482" y="22"  text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="8.5" fill="#00e5ff">
+    ● LIVE
+    <animate attributeName="opacity" values="1;0.15;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Range labels -->
+  <text x="253" y="137" font-family="'JetBrains Mono',monospace" font-size="7" fill="#4338CA" opacity="0.5">100km</text>
+  <text x="253" y="98"  font-family="'JetBrains Mono',monospace" font-size="7" fill="#4338CA" opacity="0.5">150km</text>
+</svg>
