@@ -204,7 +204,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxrxvxnn&theme=tokyonight&border=7C3AED&ring=7C3AED&fire=6D28D9&currStreakLabel=7C3AED&sideLabels=7C3AED&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sxrxvxnn&theme=tokyonight&border=7C3AED&ring=7C3AED&fire=a78bfa&currStreakLabel=7C3AED&sideLabels=6D28D9&background=0d1117&stroke=4338CA&dates=8b5cf6&currStreakNum=a78bfa&sideNums=7C3AED&excludeDaysLabel=6D28D9)](https://streak-stats.demolab.com)
 
 </div>
 
