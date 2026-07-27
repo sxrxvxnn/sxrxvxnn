@@ -249,16 +249,16 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🌱 Created `worktree/lucky-river-3204` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-2. 🌱 Created `worktree/lucky-cloud-9f0c` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-3. 🌱 Created `worktree/calm-forest-b499` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-4. 🌱 Created `Lesson` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-5. 🌱 Created `GIT` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-6. 🌱 Created `Platform` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-7. 🌱 Created `Assignment` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-8. 🌱 Created `Terminal` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-9. 🌱 Created `dependabot/npm_and_yarn/dashboard/posthog-js-1.391.6` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-10. 🌱 Created `worktree/quiet-cloud-388d` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+1. 🔀 Closed PR [](https://github.com/sxrxvxnn/leadgen-platform/pull/29) in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+2. 🔀 Closed PR [](https://github.com/sxrxvxnn/leadgen-platform/pull/30) in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+3. 🌱 Created `worktree/lucky-river-3204` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+4. 🌱 Created `worktree/lucky-cloud-9f0c` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+5. 🌱 Created `worktree/calm-forest-b499` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+6. 🌱 Created `Lesson` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+7. 🌱 Created `GIT` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+8. 🌱 Created `Platform` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+9. 🌱 Created `Terminal` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+10. 🌱 Created `Assignment` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
 <!--RECENT_ACTIVITY:end-->
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
