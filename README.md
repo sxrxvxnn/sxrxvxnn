@@ -299,9 +299,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 <div align="center">
 
-[![Spotify](https://YOUR-NOVATOREM-URL.vercel.app/api/now-playing)](https://open.spotify.com)
-
-> Setup: Deploy [novatorem](https://github.com/novatorem/novatorem) to Vercel → replace URL above → shows live Spotify track
+[![Spotify Now Playing](https://spotify-now-playing-ten-tau.vercel.app/api/now-playing)](https://open.spotify.com/user/sxrxvxnn)
 
 </div>
 
