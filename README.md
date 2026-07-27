@@ -257,8 +257,8 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 6. 🌱 Created `Lesson` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
 7. 🌱 Created `GIT` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
 8. 🌱 Created `Platform` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-9. 🌱 Created `Terminal` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
-10. 🌱 Created `Assignment` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+9. 🌱 Created `Assignment` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
+10. 🌱 Created `Terminal` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
 <!--RECENT_ACTIVITY:end-->
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
