@@ -1,14 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shravan%20Omanakuttan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shravan%20Omanakuttan&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=CS%20Student%20%7C%20Software%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+intelligent+products+at+scale;AI-powered+systems+%7C+Full+Stack+Engineering;Turning+data+into+decisions%2C+code+into+impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Building+intelligent+products+at+scale+%F0%9F%9A%80;AI-powered+systems+%7C+Full+Stack+Engineering+%F0%9F%A7%A0;LLM+orchestration+%7C+Enrichment+pipelines+%7C+Chrome+extensions;FastAPI+%2B+React+%2B+Supabase+%2B+Groq+%2B+Playwright;Turning+raw+data+into+qualified+leads+at+scale;Currently+%40+Beagle+Security+building+Sonar+%F0%9F%93%A1;Open+to+SDE+internships+%26+AI+engineering+roles;From+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <br/>
 
 ![SRM University](https://img.shields.io/badge/SRM%20University-B.Tech%20CS%20%26%20Engineering-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![Specialization](https://img.shields.io/badge/Specialization-AI%20%26%20Data%20Science-6D28D9?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![India](https://img.shields.io/badge/India-Kerala-4338CA?style=for-the-badge&logo=google-maps&logoColor=white)
+![Open To Work](https://img.shields.io/badge/Status-Open%20To%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
 
 ## About
 
@@ -34,7 +34,17 @@ I build full-stack AI products end-to-end: from database schema to deployed UI, 
 
 **Open To:** SDE internships · AI/ML engineering roles · Full-stack product roles · Research collaborations
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
+
+## Terminal
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=160&lines=%24+python3+sonar%2Fenrichment.py+--company+%22Beagle+Security%22;%E2%9C%94+LinkedIn+resolved+%7C+employees%3A+47+%7C+industry%3A+CyberSecurity+SaaS;%E2%9C%94+Email+pattern+inferred%3A+first%40domain.com+%7C+confidence%3A+94%25;%E2%9C%94+ICP+score%3A+87%2F100+%7C+verdict%3A+QUALIFIED+%F0%9F%9F%A2;%24+groq+classify+--model+llama3+--structured-output;%7B+%22is_saas%22%3A+true%2C+%22business_model%22%3A+%22B2B%22%2C+%22tier%22%3A+%22Mid-Market%22+%7D)](https://git.io/typing-svg)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
 
 ## Tech Stack
 
@@ -70,7 +80,7 @@ I build full-stack AI products end-to-end: from database schema to deployed UI, 
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
 
 ## Experience
 
@@ -95,7 +105,7 @@ Designed and built **Sonar** — an internal Apollo-like lead intelligence platf
 ![Groq](https://img.shields.io/badge/Groq_LLM-6D28D9?style=flat-square&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-4338CA?style=flat-square&logo=vercel&logoColor=white)
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
 
 ## Featured Projects
 
@@ -160,7 +170,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 </details>
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
 
 ## Certifications
 
@@ -182,7 +192,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
 
 ## GitHub Analytics
 
@@ -198,7 +208,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
 
 ## Contribution Calendar
 
@@ -208,7 +218,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
 
 ## Contribution Activity
 
@@ -218,7 +228,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
 
 ## Recent Activity
 
@@ -235,18 +245,17 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 10. 🌱 Created `worktree/quiet-cloud-388d` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-27
 <!--RECENT_ACTIVITY:end-->
 
-
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
 
 ## 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" width="100%"/>
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
 
 ## Contribution Snake
 
@@ -256,7 +265,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
 
 ## Current Focus
 
@@ -277,7 +286,7 @@ current_focus:
     - Full-stack product engineering positions
 ```
 
----
+![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true)
 
 ## Connect
 
@@ -289,12 +298,10 @@ current_focus:
 
 </div>
 
----
-
 <div align="center">
 
 *"The best engineers don't just write code — they build systems that make the impossible routine."*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
 
 </div>
