@@ -299,7 +299,7 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 <div align="center">
 
-[![Spotify Now Playing](https://spotify-now-playing-ten-tau.vercel.app/api/now-playing)](https://open.spotify.com/user/sxrxvxnn)
+[![Spotify Now Playing](https://spotify-now-playing-ten-tau.vercel.app/api/now-playing?v=2)](https://open.spotify.com/user/sxrxvxnn)
 
 </div>
 
