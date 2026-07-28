@@ -125,6 +125,26 @@ Designed and built **Sonar** — an internal Apollo-like lead intelligence platf
 
 ## Featured Projects
 
+### mac-ssd-toolkit — Use an External SSD as Your Mac's Primary Storage
+
+27 automation scripts + 2 terminal menus + 18 scheduled LaunchAgents — built to reclaim space on a 256GB Mac and make a 1TB external SSD do all the heavy lifting.
+
+```bash
+git clone https://github.com/sxrxvxnn/mac-ssd-toolkit
+cd mac-ssd-toolkit && ./install.sh
+```
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | zsh, macOS launchd, Homebrew |
+| **Result** | 13GB+ freed on internal drive, nightly automated backups |
+| **Article** | [How I freed 15GB on my 256GB MacBook](https://dev.to/sxrxvxnn/how-i-freed-15gb-on-my-256gb-macbook-and-made-an-external-ssd-my-primary-storage-with-46-55i8) |
+| **Repository** | [github.com/sxrxvxnn/mac-ssd-toolkit](https://github.com/sxrxvxnn/mac-ssd-toolkit) |
+
+![Stars](https://img.shields.io/github/stars/sxrxvxnn/mac-ssd-toolkit?style=flat-square&color=7C3AED)
+
+---
+
 <details>
 <summary><strong>Sonar — AI-Powered B2B Lead Intelligence Platform</strong></summary>
 
