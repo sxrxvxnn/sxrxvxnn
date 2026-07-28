@@ -269,16 +269,16 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗ Opened issue [claude-plugins: complementary hooks for security, cost tracking, and workflow](https://github.com/JuliusBrussee/caveman/issues/757) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) on 2026-07-28
-2. 🌱 Created `add-claude-plugins` in [sxrxvxnn/awesome-claude-code](https://github.com/sxrxvxnn/awesome-claude-code) on 2026-07-28
-3. 🍴 Forked [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) on 2026-07-28
-4. 🌱 Created `main` in [sxrxvxnn/claude-plugins](https://github.com/sxrxvxnn/claude-plugins) on 2026-07-28
-5. 🌱 Created `dependabot/npm_and_yarn/dashboard/motion-12.42.0` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
-6. 🌱 Created `dependabot/npm_and_yarn/dashboard/posthog-js-1.396.0` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
-7. 🌱 Created `dependabot/npm_and_yarn/dashboard/axios-1.18.1` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
-8. 🌱 Created `dependabot/npm_and_yarn/dashboard/globals-17.7.0` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
-9. 🌱 Created `dependabot/npm_and_yarn/dashboard/prettier-3.9.1` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
-10. 🌱 Created `dependabot/github_actions/actions/setup-node-7` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
+1. ⭐ Starred [sxrxvxnn/mac-ssd-toolkit](https://github.com/sxrxvxnn/mac-ssd-toolkit) on 2026-07-28
+2. ⭐ Starred [sxrxvxnn/claude-plugins](https://github.com/sxrxvxnn/claude-plugins) on 2026-07-28
+3. ❗ Opened issue [claude-plugins: complementary hooks for security, cost tracking, and workflow](https://github.com/JuliusBrussee/caveman/issues/757) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) on 2026-07-28
+4. 🌱 Created `add-claude-plugins` in [sxrxvxnn/awesome-claude-code](https://github.com/sxrxvxnn/awesome-claude-code) on 2026-07-28
+5. 🍴 Forked [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) on 2026-07-28
+6. 🌱 Created `main` in [sxrxvxnn/claude-plugins](https://github.com/sxrxvxnn/claude-plugins) on 2026-07-28
+7. 🌱 Created `dependabot/npm_and_yarn/dashboard/motion-12.42.0` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
+8. 🌱 Created `dependabot/npm_and_yarn/dashboard/posthog-js-1.396.0` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
+9. 🌱 Created `dependabot/npm_and_yarn/dashboard/axios-1.18.1` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
+10. 🌱 Created `dependabot/npm_and_yarn/dashboard/prettier-3.9.1` in [sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) on 2026-07-28
 <!--RECENT_ACTIVITY:end-->
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=true)
