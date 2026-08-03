@@ -271,13 +271,6 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 <!--RECENT_ACTIVITY:start-->
 1. 🌱 Created `main` in [sxrxvxnn/shravan-portfolio](https://github.com/sxrxvxnn/shravan-portfolio) on 2026-08-01
-2. 🌱 Created `master` in [sxrxvxnn/sonar-intelligence](https://github.com/sxrxvxnn/sonar-intelligence) on 2026-07-29
-3. ⭐ Starred [sxrxvxnn/mac-ssd-toolkit](https://github.com/sxrxvxnn/mac-ssd-toolkit) on 2026-07-28
-4. ⭐ Starred [sxrxvxnn/claude-plugins](https://github.com/sxrxvxnn/claude-plugins) on 2026-07-28
-5. ❗ Opened issue [claude-plugins: complementary hooks for security, cost tracking, and workflow](https://github.com/JuliusBrussee/caveman/issues/757) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) on 2026-07-28
-6. 🌱 Created `add-claude-plugins` in [sxrxvxnn/awesome-claude-code](https://github.com/sxrxvxnn/awesome-claude-code) on 2026-07-28
-7. 🍴 Forked [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) on 2026-07-28
-8. 🌱 Created `main` in [sxrxvxnn/claude-plugins](https://github.com/sxrxvxnn/claude-plugins) on 2026-07-28
 <!--RECENT_ACTIVITY:end-->
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=3c3836&height=60&section=header&reversal=true)
