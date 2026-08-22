@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=282828&fontColor=fabd2f&height=250&section=header&text=Shravan%20Omanakuttan&fontSize=56&animation=twinkling&fontAlignY=40&desc=Data%20Science%20%26%20AI%20%7C%20Python%20%7C%20SQL%20%7C%20Tableau%20%7C%20Power%20BI&descAlignY=60&descSize=20&descColor=ebdbb2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=282828&fontColor=fabd2f&height=250&section=header&text=Shravan%20Omanakuttan&fontSize=56&animation=twinkling&fontAlignY=40&desc=Data%20Science%20and%20AI%20%7C%20Python%20%7C%20SQL%20%7C%20Tableau%20%7C%20Power%20BI&descAlignY=60&descSize=20&descColor=ebdbb2)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=fabd2f&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Data+Science+%26+AI+%7C+Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Automating+data+workflows+with+Python+and+Playwright;Built+Sonar+%E2%80%94+LinkedIn+scraper+%26+prospect+pipeline+%40+Beagle+Security;PostgreSQL+data+pipelines+%7C+ETL+%7C+Web+scraping;Learning+Machine+Learning%3A+Pandas%2C+NumPy%2C+Scikit-learn;Open+to+Data+Science+%26+AI+roles;From+Kerala%2C+India+%7C+Building+with+data)](https://git.io/typing-svg)
 
