@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=282828&fontColor=fabd2f&height=250&section=header&text=Shravan%20Omanakuttan&fontSize=56&animation=twinkling&fontAlignY=40&desc=CS%20Student%20%7C%20Software%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=20&descColor=ebdbb2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=282828&fontColor=fabd2f&height=250&section=header&text=Shravan%20Omanakuttan&fontSize=56&animation=twinkling&fontAlignY=40&desc=Data%20Science%20%26%20AI%20%7C%20Python%20%7C%20SQL%20%7C%20Tableau%20%7C%20Power%20BI&descAlignY=60&descSize=20&descColor=ebdbb2)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=fabd2f&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Building+intelligent+products+at+scale;AI-powered+systems+%7C+Full+Stack+Engineering;LLM+orchestration+%7C+Enrichment+pipelines+%7C+Chrome+extensions;FastAPI+%2B+React+%2B+Supabase+%2B+Groq+%2B+Playwright;Turning+raw+data+into+qualified+leads+at+scale;Currently+%40+Beagle+Security+building+Sonar;%22Make+it+work%2C+make+it+right%2C+make+it+fast%22;Ship+fast.+Observe+everything.+Improve+relentlessly.;Open+to+SDE+internships+%26+AI+engineering+roles;From+Kerala%2C+India+%7C+Building+for+the+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=fabd2f&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Data+Science+%26+AI+%7C+Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Automating+data+workflows+with+Python+and+Playwright;Built+Sonar+%E2%80%94+LinkedIn+scraper+%26+prospect+pipeline+%40+Beagle+Security;PostgreSQL+data+pipelines+%7C+ETL+%7C+Web+scraping;Learning+Machine+Learning%3A+Pandas%2C+NumPy%2C+Scikit-learn;Open+to+Data+Science+%26+AI+roles;From+Kerala%2C+India+%7C+Building+with+data)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,11 +29,11 @@
 
 ## About
 
-CS Engineering student at SRM University Delhi-NCR (AI & Data Science), currently interning at Beagle Security as a Business Development Intern where I designed and built **Sonar** — an internal Apollo-alternative for extracting live LinkedIn data and generating ICP-qualified prospect lists at scale.
+B.Tech graduate in Computer Science specializing in Data Science & AI (in association with IBM, SRM University). Data & Automation Intern at Beagle Security where I built **Sonar** — a Python-based LinkedIn scraping and prospect pipeline tool processing 500+ profiles per run.
 
-I build full-stack AI products end-to-end: from database schema to deployed UI, enrichment pipelines to LLM orchestration. My work is production-grade, observable, and fast by default.
+Skilled in Python, SQL, Playwright, PostgreSQL, Tableau, and Power BI. Currently completing structured Machine Learning coursework covering Pandas, NumPy, and Scikit-learn.
 
-**Open To:** SDE internships · AI/ML engineering roles · Full-stack product roles · Research collaborations
+**Open To:** Data Science roles · Data Analytics roles · AI/ML intern roles
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=3c3836&height=60&section=footer&reversal=true)
 
@@ -41,7 +41,7 @@ I build full-stack AI products end-to-end: from database schema to deployed UI, 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=fabd2f&background=1D2021&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=160&lines=%24+python3+sonar%2Fenrichment.py+--company+%22Beagle+Security%22;%E2%9C%94+LinkedIn+resolved+%7C+employees%3A+47+%7C+industry%3A+CyberSecurity+SaaS;%E2%9C%94+Email+pattern+inferred%3A+first%40domain.com+%7C+confidence%3A+94%25;%E2%9C%94+ICP+score%3A+87%2F100+%7C+verdict%3A+QUALIFIED;%24+groq+classify+--model+llama3+--structured-output;%7B+%22is_saas%22%3A+true%2C+%22business_model%22%3A+%22B2B%22%2C+%22tier%22%3A+%22Mid-Market%22+%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=fabd2f&background=1D2021&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=160&lines=%24+python3+sonar%2Fscraper.py+--company+%22Beagle+Security%22;%E2%9C%94+LinkedIn+profiles+resolved%3A+47+%7C+industry%3A+CyberSecurity+SaaS;%E2%9C%94+Data+enriched+and+stored+in+PostgreSQL;%E2%9C%94+Prospect+list+generated+%7C+500%2B+profiles+processed;%24+python3+pipeline%2Fetl.py+--source+external_api;%E2%9C%94+Workflow+automated+%7C+~5+hrs%2Fweek+saved)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,19 +53,15 @@ I build full-stack AI products end-to-end: from database schema to deployed UI, 
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=typescript,python,javascript,sql,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,javascript,html,css,bash&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+**Data & Automation**
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,html,css&theme=dark)](https://skillicons.dev)
+[![Data](https://skillicons.dev/icons?i=postgres,vscode,figma&theme=dark)](https://skillicons.dev)
 
-**Backend & Databases**
+**Visualization & BI**
 
-[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase&theme=dark)](https://skillicons.dev)
-
-**Cloud, DevOps & Tooling**
-
-[![DevOps](https://skillicons.dev/icons?i=vercel,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
+[![BI](https://skillicons.dev/icons?i=vercel,git,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -73,11 +69,10 @@ I build full-stack AI products end-to-end: from database schema to deployed UI, 
 
 | Category | Tools |
 |---|---|
-| **AI / LLMs** | Groq, Gemini AI, OpenRouter |
-| **Scraping** | Playwright, Firecrawl |
-| **Enrichment APIs** | People Data Labs, Hunter.io, Apollo.io |
-| **Extensions** | Chrome MV3 |
-| **Observability** | PostHog |
+| **Programming** | Python, SQL |
+| **Data & Automation** | Playwright, PostgreSQL, Web Scraping, ETL, Workflow Automation |
+| **Visualization & BI** | Tableau, Power BI, Microsoft Excel |
+| **Learning** | Machine Learning, Pandas, NumPy, Scikit-learn |
 
 </div>
 
@@ -91,38 +86,21 @@ I build full-stack AI products end-to-end: from database schema to deployed UI, 
 
 ## Experience
 
-### Beagle Security — Business Development Intern
-*Remote · Apr 2026 – Present*
+### Beagle Security — Data & Automation Intern
+*Trivandrum, Kerala, India · Mar 2026 – Aug 2026*
 
-Designed and built **Sonar** — an internal Apollo-like lead intelligence platform for extracting live LinkedIn data and generating ICP-qualified prospect lists at scale.
+Built **Sonar** — an internal tool processing 500+ LinkedIn profiles per run, automating prospect list generation using Python-based web scraping and PostgreSQL data pipelines.
 
-- Architected a **FastAPI backend on Vercel** with Supabase PostgreSQL, handling auth, lead storage, and enrichment orchestration
-- Built a **Chrome Extension (MV3)** for one-click LinkedIn profile and company page extraction with real-time backend sync via authenticated REST API
-- Engineered a **multi-stage email enrichment pipeline** — website scraping → pattern inference → Hunter.io + Apollo API, processing hundreds of companies concurrently
-- Integrated **People Data Labs API** for large-scale prospect discovery and bulk lead enrichment
-- Built **AI-powered workflows** using Gemini AI, Groq, and OpenRouter for ICP scoring, business model classification, and company intelligence analysis
-- Delivered a **React dashboard with 10+ modules** — Company Intelligence, Prospect Search, ICP Scoring, Email Sequences, Analytics, Administration
-- Implemented **PostHog analytics** for product usage tracking, funnel analysis, and feature adoption
+- Automated **manual data collection workflows** using Python and Playwright, cutting **~5 hours/week** of repetitive processing across internal operations
+- Built **multi-source data pipelines** pulling from external APIs and scraped sources, enabling automated lead qualification at scale
+- Designed and maintained **PostgreSQL schemas and queries** supporting 3+ internal reporting workflows
 
 ![Python](https://img.shields.io/badge/Python-b57614?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-d79921?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-689d6a?style=flat-square&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-d65d0e?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-d79921?style=flat-square&logo=supabase&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LLM-b57614?style=flat-square&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-928374?style=flat-square&logo=vercel&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-d79921?style=flat-square&logo=playwright&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-689d6a?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-d65d0e?style=flat-square&logo=databricks&logoColor=white)
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=3c3836&height=60&section=header&reversal=true)
-
-## Sonar Intelligence
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sxrxvxnn/sxrxvxnn/main/assets/radar.svg" alt="Sonar Radar" width="80%"/>
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=shark&color=3c3836&height=60&section=footer&reversal=true)
 
 ## Featured Projects
 
@@ -143,69 +121,6 @@ cd mac-ssd-toolkit && ./install.sh
 | **Repository** | [github.com/sxrxvxnn/mac-ssd-toolkit](https://github.com/sxrxvxnn/mac-ssd-toolkit) |
 
 ![Stars](https://img.shields.io/github/stars/sxrxvxnn/mac-ssd-toolkit?style=flat-square&color=d79921&labelColor=3c3836)
-
----
-
-<details>
-<summary><strong>Sonar — AI-Powered B2B Lead Intelligence Platform</strong></summary>
-
-<br/>
-
-Internal Apollo-alternative built for Beagle Security. Autonomously discovers, classifies, enriches, and validates B2B prospects at scale using multi-source intelligence pipelines and LLM-based decision making.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | React, TypeScript, Vite, FastAPI, Supabase PostgreSQL, Groq, Gemini AI, Firecrawl, PDL, Playwright |
-| **Scale** | Multi-source enrichment across PDL, Hunter.io, Apollo.io with deduplication and entity resolution |
-| **Performance** | Async enrichment workers, streamed LLM outputs, <2s lookalike scoring |
-| **Security** | Row-level security via Supabase, JWT auth, API key rotation |
-| **Repository** | [github.com/sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) |
-
-</details>
-
-<details>
-<summary><strong>Lookalike Search Engine — Semantic B2B Company Matching</strong></summary>
-
-<br/>
-
-LLM-guided semantic similarity scoring — single structured Groq call ranks companies against a target by industry, business model, and tech signals. <2s end-to-end.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | TypeScript, Groq, Supabase, PostgreSQL |
-| **Performance** | Single Groq API call with structured JSON output; <2s end-to-end |
-| **Repository** | [github.com/sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) |
-
-</details>
-
-<details>
-<summary><strong>LinkedIn DM Verification Pipeline — Playwright Scraping Worker</strong></summary>
-
-<br/>
-
-Playwright pipeline verifying decision-maker profiles on LinkedIn — handles SPA rendering, hash-based class names, and cross-validates against company website records.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, Playwright, FastAPI, PostgreSQL |
-| **Scale** | Async batch processing, designed for queue-driven horizontal scaling |
-| **Repository** | [github.com/sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) |
-
-</details>
-
-<details>
-<summary><strong>Sonar Chrome Extension — LinkedIn Data Extractor (MV3)</strong></summary>
-
-<br/>
-
-One-click LinkedIn profile and company page extraction into Sonar, with real-time backend sync via authenticated REST API.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Chrome Extensions Manifest V3, JavaScript |
-| **Repository** | [github.com/sxrxvxnn/leadgen-platform](https://github.com/sxrxvxnn/leadgen-platform) |
-
-</details>
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=3c3836&height=60&section=footer&reversal=true)
 
@@ -321,19 +236,19 @@ One-click LinkedIn profile and company page extraction into Sonar, with real-tim
 
 ```yaml
 current_focus:
-  role: Business Development Intern @ Beagle Security
-  building:
-    - Sonar — AI-powered B2B lead intelligence platform
-    - LinkedIn DM verification pipeline (Playwright + Python)
-    - Lookalike search engine with structured LLM scoring
+  role: Data & Automation Intern @ Beagle Security
+  built:
+    - Sonar — Python-based LinkedIn scraper and prospect pipeline tool
+    - PostgreSQL data pipelines for internal reporting workflows
+    - Workflow automation scripts reducing manual processing time
   learning:
-    - Advanced LLM agent architectures
-    - Distributed enrichment pipeline engineering
-    - Production observability for AI systems
+    - Machine Learning fundamentals (Pandas, NumPy, Scikit-learn)
+    - Statistical modelling and inference
+    - Data Science with Python
   open_to:
-    - SDE internships at product-led companies
-    - AI/ML engineering roles
-    - Full-stack product engineering positions
+    - Data Science roles
+    - Data Analytics roles
+    - AI/ML intern roles
 ```
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=3c3836&height=60&section=footer&reversal=true)
@@ -351,7 +266,7 @@ current_focus:
 
 <div align="center">
 
-*"The best engineers don't just write code — they build systems that make the impossible routine."*
+*"Data is the new oil — but only if you can refine it."*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=282828&fontColor=fabd2f&height=150&section=footer&animation=twinkling)
 
