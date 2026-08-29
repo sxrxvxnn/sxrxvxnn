@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1108 Commits
+                            1111 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.8166288994322" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.8166288994322" y="0" width="309.89263721957775" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="757.70926611901" y="0" width="68.07253400782463" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="825.7818001268346" y="0" width="52.12762550356116" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="877.9094256303957" y="0" width="18.19024538267115" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="896.0996710130668" y="0" width="12.665842868423459" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="908.7655138814903" y="0" width="11.078971704183973" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="919.8444855856743" y="0" width="0.15551441432566585" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.8297308184279" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.8297308184279" y="0" width="309.9017038508017" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="757.7314346692297" y="0" width="68.0745256284319" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="825.8059602976616" y="0" width="52.129150618714796" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="877.9351109163763" y="0" width="18.190777580687335" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="896.1258884970637" y="0" width="12.666213437170944" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="908.7921019342346" y="0" width="11.079295845317768" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="919.8713977795524" y="0" width="0.128602220447623" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -328,8 +328,8 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>1.20 kB</div>
-                                <div>0.02%</div>
+                                <div>989 bytes</div>
+                                <div>0.01%</div>
                             </small>
                         </div>
                     </section>
