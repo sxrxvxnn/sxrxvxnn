@@ -185,16 +185,16 @@ cd mac-ssd-toolkit && ./install.sh
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🌱 Created `feat/notebooks` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-05
-2. 🌱 Created `main` in [sxrxvxnn/genai-hackathon](https://github.com/sxrxvxnn/genai-hackathon) on 2026-11-06
-3. 🌱 Created `feat/plate-ocr-split` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-05
-4. 🌱 Created `feat/arrival-risk` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-05
-5. 🌱 Created `feat/delay-risk` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-05
-6. 🌱 Created `feat/project-notebook` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-05
-7. 🌱 Created `feat/plate-ocr` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-05
-8. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/14) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-05
-9. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/14) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-05
-10. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/13) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-05
+1. 🌱 Created `feat/plate-ocr-fallback` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+2. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/25) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+3. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/24) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+4. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/25) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+5. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/24) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+6. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/23) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+7. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/23) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+8. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/22) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+9. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/22) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+10. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/21) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
 <!--RECENT_ACTIVITY:end-->
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=3c3836&height=60&section=header&reversal=true)
