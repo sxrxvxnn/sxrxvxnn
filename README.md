@@ -185,16 +185,16 @@ cd mac-ssd-toolkit && ./install.sh
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🌱 Created `chore/dependabot-majors` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-2. 🌱 Created `docs/installation` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-3. 🌱 Created `docs/model-cards` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-4. 🌱 Created `feat/model-monitoring` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-5. 🌱 Created `fix/gate-tracking-real-footage` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-6. 🌱 Created `feat/occupancy-site-calibration` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-7. 🌱 Created `feat/camera-runner` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
-8. 🌱 Created `chore/licence-supply-chain` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-9. 🌱 Created `feat/docker-postgres` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-10. 🌱 Created `feat/rag-procedures` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+1. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/44) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-11
+2. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/44) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-11
+3. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/43) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-11
+4. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/43) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-11
+5. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/42) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-11
+6. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/42) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-11
+7. 🌱 Created `feat/occupancy-resume` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+8. 🌱 Created `feat/yard-qa` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+9. 🌱 Created `fix/ci-no-pillow` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+10. 🌱 Created `fix/kaggle-gpu` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
 <!--RECENT_ACTIVITY:end-->
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=3c3836&height=60&section=header&reversal=true)
