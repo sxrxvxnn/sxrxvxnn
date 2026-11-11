@@ -185,16 +185,16 @@ cd mac-ssd-toolkit && ./install.sh
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🌱 Created `feat/docker-postgres` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-2. 🌱 Created `feat/rag-procedures` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-3. 🌱 Created `feat/api-auth` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-4. 🌱 Created `chore/pyright` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-5. 🌱 Created `feat/agent-explain-only` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
-6. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/41) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-7. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/41) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-8. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/40) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-9. 🔀 Opened PR [](https://github.com/sxrxvxnn/torkvik/pull/40) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
-10. 🔀 Merged PR [](https://github.com/sxrxvxnn/torkvik/pull/39) in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+1. 🌱 Created `chore/dependabot-majors` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+2. 🌱 Created `docs/installation` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+3. 🌱 Created `docs/model-cards` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+4. 🌱 Created `feat/model-monitoring` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+5. 🌱 Created `fix/gate-tracking-real-footage` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+6. 🌱 Created `feat/occupancy-site-calibration` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+7. 🌱 Created `feat/camera-runner` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-09
+8. 🌱 Created `chore/licence-supply-chain` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+9. 🌱 Created `feat/docker-postgres` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
+10. 🌱 Created `feat/rag-procedures` in [sxrxvxnn/torkvik](https://github.com/sxrxvxnn/torkvik) on 2026-11-10
 <!--RECENT_ACTIVITY:end-->
 
 ![divider](https://capsule-render.vercel.app/api?type=shark&color=3c3836&height=60&section=header&reversal=true)
